@@ -782,7 +782,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(45, 64, 95, 0.6);
+  /* background: rgba(45, 64, 95, 0.6); */
 }
 
 .portfolio .portfolio-wrap::before {
@@ -914,7 +914,7 @@ section {
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
+  /* font-style: italic; */
   margin: 0 auto 15px auto;
 }
 
